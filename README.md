@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Kandel</h1>
-<h3 align="center">A focused, determined and passionate Business/BI Analyst, seeking a professional job as a Data Analyst or a Data Scientist.</h3>
+<h3 align="center">I have recently completed several Career Training Certifications related to data analysis, such as Boolean UK Data Analyst (Apr 2023), UC Davis: Data Visualization with Tableau (Apr 2023), IBM Data Science Professional Certificate (Mar 2023), Google Data Analytics Professional Certificate (Nov 2022), UC Boulder Databases for Data Scientists (Nov 2022), and From Data to Insights with Google Cloud (Nov 2022)..</h3>
 
 - 🌱 I’m currently learning **Advanced Data Analytics, Machine Learning and Nuaral Networksl**
 
