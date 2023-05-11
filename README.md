@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm working as a Business/BI Analyst and open to work as a Data Analyst or a Data Scientist</h1>
 <h3 align="center">I have recently completed several Career Training Certifications related to data science, such as Boolean UK Data Analyst (Apr 2023), UC Davis: Data Visualization with Tableau (Apr 2023), IBM Data Science Professional Certificate (Mar 2023), Google Data Analytics Professional Certificate (Nov 2022), UC Boulder Databases for Data Scientists (Nov 2022), and From Data to Insights with Google Cloud (Nov 2022)..</h3>
 
-- 🌱 I’m currently learning **Advanced Data Analytics, Machine Learning and Nuaral Networksl**
+- 🌱 I’m currently learning **Advanced Data Analytics, Statistics, Machine Learning and Nuaral Networksl**
 
 - 📫 How to reach me **narenkandel@gmail.com**
 
