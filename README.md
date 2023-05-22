@@ -4,11 +4,11 @@
 
 
 <br>
-<h3 align="center">- 🌱 I’m currently learning **Advanced Data Analytics, Statistics, Machine Learning and Nuaral Networksl**.</h3>
+<h3 align="center">- 🌱 I’m currently learning **Advanced Data Analytics, Statistics, Machine Learning and Neural Networksl**.</h3>
 <br>
 <h3 align="center">- 📫 How to reach me **narenkandel@gmail.com**</h3>
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p > Google Sheets <br> Microsoft Excel  <br> Google Analytics  <br> Database Designs <br> Big Data <br> Relational Databases   <br> SQL   <br> BigQuery<br> NonSQL Databases   <br> Data Warehouses    <br> Python   <br> R programming<br> Data Cleaning   <br> Data Analysis <br> Data Vizs (Tableau, Power BI, Google Data Studio)  <br> Maths and Statistics <br> Machine Learning </p>
+<h3 align="left">Languages, Tools & Skills:</h3>
+<p > SQL, HTMl, Java Script & JSON, BigQuery, NonSQL Databases such as MongoDB, Cassandra etc., Python, R programming, Google Sheets, Microsoft Excel, Google Analytics, Database Designs, Big Data,  Relational Databases, Data Warehouses,  Problem Solving, Web Scrapping, Data Cleaning, Data Analysis, Data Vizs (Tableau, Power BI, Google Data Studio), Maths and Statistics, Machine Learning etc </p>
