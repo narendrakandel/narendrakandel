@@ -12,3 +12,7 @@
 
 <h3 align="left">Languages, Tools & Skills:</h3>
 <p > SQL, HTMl, Java Script & JSON, BigQuery, NonSQL Databases such as MongoDB, Cassandra etc., Python, R programming, Google Sheets, Microsoft Excel, Google Analytics, Database Designs, Big Data,  Relational Databases, Data Warehouses,  Problem Solving, Web Scrapping, Data Cleaning, Data Analysis, Data Vizs (Tableau, Power BI, Google Data Studio), Maths and Statistics, Machine Learning etc </p>
+
+<br>
+<h3 align="left">Capstone Projects</h3>
+<p > I have pinned two projects below: </p>
