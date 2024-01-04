@@ -10,7 +10,7 @@
 <br>
 
 <h3 align="left">Languages, Tools & Skills:</h3>
-<p > SQL, HTMl, Java Script & JSON, BigQuery, NonSQL Databases such as MongoDB, Cassandra etc., Python, R programming, Google Sheets, Microsoft Excel, Google Analytics, Database Designs, Big Data,  Relational Databases, Data Warehouses,  Problem Solving, Web Scrapping, Data Cleaning, Data Analysis, Data Vizs (Tableau, Power BI, Google Data Studio), Maths and Statistics, Machine Learning etc </p>
+<p > SQL, BigQuery, NonSQL Databases such as Cosmos, MongoDB, Cassandra etc., Python programming, Google Sheets, Microsoft Excel, Google Analytics, Database Designs, Big Data,  Relational Databases, Data Warehouses, Data Factory, Databricks, Synapse, Web Scrapping, Data Cleaning, Data Analysis, Data Vizs (Tableau, Power BI, Google Data Studio), Maths and Statistics, Machine Learning, HTMl, Java Script & JSON etc </p>
 <br>
 <h2 align="left">Capstone Projects:</h2>
 <p > I have pinned two capstone projects below; namely Applied Data Science Capstone & Tableau Capstone Project </p>
